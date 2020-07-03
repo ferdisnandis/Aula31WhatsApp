@@ -26,10 +26,17 @@ namespace Aula31WhatsApp
         }
         }
         
+
+        /// <summary>
+        /// Adiciona uma linha de dados ao CSV
+        /// </summary>
+        /// <param name="contato">Informações do contato</param>
+        /// <returns></returns>
         public string PrepararLinha(Contato contato)
         {
-            return $"Nome: {contato.Nome} \nTelefone {contato.Telefone}";
+            return $"Nome:{contato.Nome};Telefone:{contato.Telefone};";
         }
+
         /// <summary>
         /// Adicionar os contatos na agenda
         /// </summary>
