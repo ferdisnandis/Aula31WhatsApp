@@ -19,6 +19,11 @@ namespace Aula31WhatsApp
             contato.Telefone = Console.ReadLine();
 
             agenda.Cadastrar(agenda, contato);
+
+            //Digitar mensagem 
+            System.Console.WriteLine("Digite a mensagem para esse número:");
+            msg.Texto = Console.ReadLine();
+
         }
     }
 }
