@@ -1,0 +1,13 @@
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.exe
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.deps.json
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.runtimeconfig.json
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.runtimeconfig.dev.json
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.dll
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\bin\Debug\netcoreapp3.1\Aula31WhatsApp.pdb
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.csprojAssemblyReference.cache
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.csproj.CoreCompileInputs.cache
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.AssemblyInfoInputs.cache
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.AssemblyInfo.cs
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.dll
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.pdb
+C:\Users\fernanda1234\Desktop\Aula31WhatsApp\obj\Debug\netcoreapp3.1\Aula31WhatsApp.genruntimeconfig.cache
